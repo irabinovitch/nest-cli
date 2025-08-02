@@ -70,6 +70,8 @@ Save the response into `config.json`:
 }
 ```
 
+If you add a datadog_api_key to config.json, enforcement actions will be logged to your datadog account
+
 ---
 
 ## 💻 Usage
