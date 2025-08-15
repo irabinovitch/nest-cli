@@ -25,6 +25,8 @@ Using a gmail address.
 
 ### 2. Set Up Google Cloud
 
+Logging in with a @gmail.com address:
+
 1. Visit [Google Cloud Console](https://console.cloud.google.com/)
 2. Create a new project
 3. Enable the **Smart Device Management API**
@@ -37,6 +39,8 @@ Using a gmail address.
 ---
 
 ### 3. Link Your OAuth Client to the Nest Project
+
+Logging in with a @gmail.com address thats part of your Google Home.
 
 Construct a URL like this (replace values):
 
