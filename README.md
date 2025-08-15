@@ -8,7 +8,7 @@ The model of Nest we have doesn't support locking and this was cheaper than buyi
 
 ## Setup Instructions
 
-NOTE: Get or use an existing gmail.com address for everythign here. Do not use a Google Workspace domain for your Google Cloud, Nest Developer account or anything else. Google is a hassle and refuses to support Google Workspace domains. 
+NOTE: Get or use an existing gmail.com address for everything here. Do not use a Google Workspace domain for your Google Cloud, Nest Developer account or anything else associated with this coe. Google is a hassle and refuses to support Google Workspace domains for most consumer products.
 
 Believe me, you will lose hours to this, and $5 to a Nest Developer account you'll never be able to use. Save the time.
 
